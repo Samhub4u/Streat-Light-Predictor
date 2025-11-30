@@ -83,7 +83,7 @@ Random Forest Classifier: Fault prediction and ON/OFF state prediction for robus
 ## ⚡️ Getting Started
 
 **1. Clone this repository:**
-git clone https://github.com/Samhub4u/Street-Light-Predictor.git
+git clone [https://github.com/Samhub4u/Street-Light-Predictor.git](https://github.com/Samhub4u/Streat-Light-Predictor)
 cd smart-streetlight-ml
 
 
